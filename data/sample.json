@@ -1,0 +1,46 @@
+{
+  "enrollment": [
+    {
+      "row_id": "s1",
+      "key": "school-a",
+      "value": 10,
+      "start": 0,
+      "end": 5,
+      "multiplicity": 2
+    },
+    {
+      "row_id": "s2",
+      "key": "school-a",
+      "value": null,
+      "start": 5,
+      "end": 10,
+      "multiplicity": 1
+    },
+    {
+      "row_id": "s3",
+      "key": "school-a",
+      "value": 4,
+      "start": 3,
+      "end": 7,
+      "multiplicity": 1
+    },
+    {
+      "row_id": "s4",
+      "key": null,
+      "value": 3,
+      "start": 2,
+      "end": 4,
+      "multiplicity": 1
+    }
+  ],
+  "teaching": [
+    {
+      "row_id": "t1",
+      "key": "school-a",
+      "value": "math",
+      "start": 2,
+      "end": 6,
+      "multiplicity": 3
+    }
+  ]
+}
